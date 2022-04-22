@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Manipulation\bin\Debug\net6.0\String Manipulation.exe
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Manipulation\bin\Debug\net6.0\String Manipulation.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Manipulation\bin\Debug\net6.0\String Manipulation.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Manipulation\bin\Debug\net6.0\String Manipulation.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Manipulation\bin\Debug\net6.0\ref\String Manipulation.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Manipulation\bin\Debug\net6.0\String Manipulation.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Manipulation\obj\Debug\net6.0\String Manipulation.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Manipulation\obj\Debug\net6.0\String Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Manipulation\obj\Debug\net6.0\String Manipulation.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Manipulation\obj\Debug\net6.0\String Manipulation.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Manipulation\obj\Debug\net6.0\String Manipulation.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Manipulation\obj\Debug\net6.0\String Manipulation.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Manipulation\obj\Debug\net6.0\ref\String Manipulation.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Manipulation\obj\Debug\net6.0\String Manipulation.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Manipulation\obj\Debug\net6.0\String Manipulation.genruntimeconfig.cache
