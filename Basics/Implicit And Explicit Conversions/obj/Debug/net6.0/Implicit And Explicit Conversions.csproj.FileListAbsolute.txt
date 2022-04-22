@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Implicit And Explicit Conversions\bin\Debug\net6.0\Implicit And Explicit Conversions.exe
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Implicit And Explicit Conversions\bin\Debug\net6.0\Implicit And Explicit Conversions.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Implicit And Explicit Conversions\bin\Debug\net6.0\Implicit And Explicit Conversions.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Implicit And Explicit Conversions\bin\Debug\net6.0\Implicit And Explicit Conversions.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Implicit And Explicit Conversions\bin\Debug\net6.0\ref\Implicit And Explicit Conversions.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Implicit And Explicit Conversions\bin\Debug\net6.0\Implicit And Explicit Conversions.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Implicit And Explicit Conversions\obj\Debug\net6.0\Implicit And Explicit Conversions.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Implicit And Explicit Conversions\obj\Debug\net6.0\Implicit And Explicit Conversions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Implicit And Explicit Conversions\obj\Debug\net6.0\Implicit And Explicit Conversions.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Implicit And Explicit Conversions\obj\Debug\net6.0\Implicit And Explicit Conversions.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Implicit And Explicit Conversions\obj\Debug\net6.0\Implicit And Explicit Conversions.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Implicit And Explicit Conversions\obj\Debug\net6.0\Implicit And Explicit Conversions.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Implicit And Explicit Conversions\obj\Debug\net6.0\ref\Implicit And Explicit Conversions.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Implicit And Explicit Conversions\obj\Debug\net6.0\Implicit And Explicit Conversions.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Implicit And Explicit Conversions\obj\Debug\net6.0\Implicit And Explicit Conversions.genruntimeconfig.cache
