@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Data Types\bin\Debug\net6.0\Data Types.exe
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Data Types\bin\Debug\net6.0\Data Types.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Data Types\bin\Debug\net6.0\Data Types.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Data Types\bin\Debug\net6.0\Data Types.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Data Types\bin\Debug\net6.0\ref\Data Types.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Data Types\bin\Debug\net6.0\Data Types.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Data Types\obj\Debug\net6.0\Data Types.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Data Types\obj\Debug\net6.0\Data Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Data Types\obj\Debug\net6.0\Data Types.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Data Types\obj\Debug\net6.0\Data Types.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Data Types\obj\Debug\net6.0\Data Types.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Data Types\obj\Debug\net6.0\Data Types.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Data Types\obj\Debug\net6.0\ref\Data Types.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Data Types\obj\Debug\net6.0\Data Types.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Data Types\obj\Debug\net6.0\Data Types.genruntimeconfig.cache
