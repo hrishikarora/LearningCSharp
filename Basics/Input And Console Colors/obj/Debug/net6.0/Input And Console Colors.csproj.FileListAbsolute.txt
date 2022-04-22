@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Input And Console Colors\bin\Debug\net6.0\Input And Console Colors.exe
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Input And Console Colors\bin\Debug\net6.0\Input And Console Colors.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Input And Console Colors\bin\Debug\net6.0\Input And Console Colors.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Input And Console Colors\bin\Debug\net6.0\Input And Console Colors.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Input And Console Colors\bin\Debug\net6.0\ref\Input And Console Colors.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Input And Console Colors\bin\Debug\net6.0\Input And Console Colors.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Input And Console Colors\obj\Debug\net6.0\Input And Console Colors.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Input And Console Colors\obj\Debug\net6.0\Input And Console Colors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Input And Console Colors\obj\Debug\net6.0\Input And Console Colors.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Input And Console Colors\obj\Debug\net6.0\Input And Console Colors.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Input And Console Colors\obj\Debug\net6.0\Input And Console Colors.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Input And Console Colors\obj\Debug\net6.0\Input And Console Colors.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Input And Console Colors\obj\Debug\net6.0\ref\Input And Console Colors.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Input And Console Colors\obj\Debug\net6.0\Input And Console Colors.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Input And Console Colors\obj\Debug\net6.0\Input And Console Colors.genruntimeconfig.cache
