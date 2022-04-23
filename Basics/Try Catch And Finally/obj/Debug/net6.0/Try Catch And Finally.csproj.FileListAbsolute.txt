@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Catch And Finally\bin\Debug\net6.0\Try Catch And Finally.exe
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Catch And Finally\bin\Debug\net6.0\Try Catch And Finally.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Catch And Finally\bin\Debug\net6.0\Try Catch And Finally.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Catch And Finally\bin\Debug\net6.0\Try Catch And Finally.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Catch And Finally\bin\Debug\net6.0\ref\Try Catch And Finally.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Catch And Finally\bin\Debug\net6.0\Try Catch And Finally.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Catch And Finally\obj\Debug\net6.0\Try Catch And Finally.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Catch And Finally\obj\Debug\net6.0\Try Catch And Finally.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Catch And Finally\obj\Debug\net6.0\Try Catch And Finally.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Catch And Finally\obj\Debug\net6.0\Try Catch And Finally.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Catch And Finally\obj\Debug\net6.0\Try Catch And Finally.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Catch And Finally\obj\Debug\net6.0\Try Catch And Finally.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Catch And Finally\obj\Debug\net6.0\ref\Try Catch And Finally.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Catch And Finally\obj\Debug\net6.0\Try Catch And Finally.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Catch And Finally\obj\Debug\net6.0\Try Catch And Finally.genruntimeconfig.cache
