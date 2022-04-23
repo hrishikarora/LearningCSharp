@@ -1,11 +1,16 @@
 ﻿bool isRegistered = false, isAdmin = false, isLoggedIn = false;
 string userName = "", password = "", inputUserName = "", inputUserPassword = "";
-
-AskingCredentials();
-userName = inputUserName;
-password = inputUserPassword;
-Login();
-
+if(!isRegistered)
+{
+    AskingCredentials();
+    userName = inputUserName;
+    password = inputUserPassword;
+    Login();
+}
+else
+{
+    Login();
+}
 void Login()
 {
     AskingCredentials();
