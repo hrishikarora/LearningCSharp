@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Functions\bin\Debug\net6.0\Functions.exe
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Functions\bin\Debug\net6.0\Functions.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Functions\bin\Debug\net6.0\Functions.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Functions\bin\Debug\net6.0\Functions.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Functions\bin\Debug\net6.0\ref\Functions.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Functions\bin\Debug\net6.0\Functions.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Functions\obj\Debug\net6.0\Functions.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Functions\obj\Debug\net6.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Functions\obj\Debug\net6.0\Functions.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Functions\obj\Debug\net6.0\Functions.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Functions\obj\Debug\net6.0\Functions.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Functions\obj\Debug\net6.0\Functions.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Functions\obj\Debug\net6.0\ref\Functions.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Functions\obj\Debug\net6.0\Functions.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Functions\obj\Debug\net6.0\Functions.genruntimeconfig.cache
