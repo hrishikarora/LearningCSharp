@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Nested If\bin\Debug\net6.0\Nested If.exe
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Nested If\bin\Debug\net6.0\Nested If.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Nested If\bin\Debug\net6.0\Nested If.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Nested If\bin\Debug\net6.0\Nested If.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Nested If\bin\Debug\net6.0\ref\Nested If.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Nested If\bin\Debug\net6.0\Nested If.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Nested If\obj\Debug\net6.0\Nested If.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Nested If\obj\Debug\net6.0\Nested If.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Nested If\obj\Debug\net6.0\Nested If.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Nested If\obj\Debug\net6.0\Nested If.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Nested If\obj\Debug\net6.0\Nested If.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Nested If\obj\Debug\net6.0\Nested If.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Nested If\obj\Debug\net6.0\ref\Nested If.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Nested If\obj\Debug\net6.0\Nested If.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Nested If\obj\Debug\net6.0\Nested If.genruntimeconfig.cache
