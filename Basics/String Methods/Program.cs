@@ -1,0 +1,15 @@
+﻿string firstString = "Hello";
+string firstName = "Hrishik";
+string sentence = "My name is Hrishik Arora";
+string secondString = firstString.Substring(1);
+string lowerString = firstString.ToLower();
+string upperString = firstString.ToUpper();
+int index = sentence.IndexOf("Hrishik");
+string greetings = string.Concat( firstString, " ",firstName);
+string format = string.Format("My name is {0}", firstName);
+Console.WriteLine(secondString);
+Console.WriteLine(lowerString);
+Console.WriteLine(upperString);
+Console.WriteLine(index);
+Console.WriteLine(greetings);
+Console.WriteLine(format);
