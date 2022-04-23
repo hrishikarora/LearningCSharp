@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Operators\bin\Debug\net6.0\Operators.exe
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Operators\bin\Debug\net6.0\Operators.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Operators\bin\Debug\net6.0\Operators.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Operators\bin\Debug\net6.0\Operators.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Operators\bin\Debug\net6.0\ref\Operators.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Operators\bin\Debug\net6.0\Operators.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Operators\obj\Debug\net6.0\Operators.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Operators\obj\Debug\net6.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Operators\obj\Debug\net6.0\Operators.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Operators\obj\Debug\net6.0\Operators.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Operators\obj\Debug\net6.0\Operators.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Operators\obj\Debug\net6.0\Operators.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Operators\obj\Debug\net6.0\ref\Operators.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Operators\obj\Debug\net6.0\Operators.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Operators\obj\Debug\net6.0\Operators.genruntimeconfig.cache
