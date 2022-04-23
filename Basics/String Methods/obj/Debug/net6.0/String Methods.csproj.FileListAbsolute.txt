@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Methods\bin\Debug\net6.0\String Methods.exe
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Methods\bin\Debug\net6.0\String Methods.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Methods\bin\Debug\net6.0\String Methods.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Methods\bin\Debug\net6.0\String Methods.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Methods\bin\Debug\net6.0\ref\String Methods.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Methods\bin\Debug\net6.0\String Methods.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Methods\obj\Debug\net6.0\String Methods.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Methods\obj\Debug\net6.0\String Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Methods\obj\Debug\net6.0\String Methods.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Methods\obj\Debug\net6.0\String Methods.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Methods\obj\Debug\net6.0\String Methods.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Methods\obj\Debug\net6.0\String Methods.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Methods\obj\Debug\net6.0\ref\String Methods.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Methods\obj\Debug\net6.0\String Methods.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\String Methods\obj\Debug\net6.0\String Methods.genruntimeconfig.cache
