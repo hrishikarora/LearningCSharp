@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - If Statement\bin\Debug\net6.0\Challenge - If Statement.exe
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - If Statement\bin\Debug\net6.0\Challenge - If Statement.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - If Statement\bin\Debug\net6.0\Challenge - If Statement.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - If Statement\bin\Debug\net6.0\Challenge - If Statement.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - If Statement\bin\Debug\net6.0\ref\Challenge - If Statement.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - If Statement\bin\Debug\net6.0\Challenge - If Statement.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - If Statement\obj\Debug\net6.0\Challenge - If Statement.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - If Statement\obj\Debug\net6.0\Challenge - If Statement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - If Statement\obj\Debug\net6.0\Challenge - If Statement.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - If Statement\obj\Debug\net6.0\Challenge - If Statement.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - If Statement\obj\Debug\net6.0\Challenge - If Statement.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - If Statement\obj\Debug\net6.0\Challenge - If Statement.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - If Statement\obj\Debug\net6.0\ref\Challenge - If Statement.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - If Statement\obj\Debug\net6.0\Challenge - If Statement.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - If Statement\obj\Debug\net6.0\Challenge - If Statement.genruntimeconfig.cache

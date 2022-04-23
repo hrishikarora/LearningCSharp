@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Parse\bin\Debug\net6.0\Try Parse.exe
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Parse\bin\Debug\net6.0\Try Parse.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Parse\bin\Debug\net6.0\Try Parse.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Parse\bin\Debug\net6.0\Try Parse.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Parse\bin\Debug\net6.0\ref\Try Parse.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Parse\bin\Debug\net6.0\Try Parse.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Parse\obj\Debug\net6.0\Try Parse.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Parse\obj\Debug\net6.0\Try Parse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Parse\obj\Debug\net6.0\Try Parse.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Parse\obj\Debug\net6.0\Try Parse.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Parse\obj\Debug\net6.0\Try Parse.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Parse\obj\Debug\net6.0\Try Parse.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Parse\obj\Debug\net6.0\ref\Try Parse.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Parse\obj\Debug\net6.0\Try Parse.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Try Parse\obj\Debug\net6.0\Try Parse.genruntimeconfig.cache
