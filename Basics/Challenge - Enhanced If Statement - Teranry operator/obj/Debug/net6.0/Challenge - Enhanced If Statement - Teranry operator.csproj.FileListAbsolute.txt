@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Enhanced If Statement - Teranry operator\bin\Debug\net6.0\Challenge - Enhanced If Statement - Teranry operator.exe
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Enhanced If Statement - Teranry operator\bin\Debug\net6.0\Challenge - Enhanced If Statement - Teranry operator.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Enhanced If Statement - Teranry operator\bin\Debug\net6.0\Challenge - Enhanced If Statement - Teranry operator.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Enhanced If Statement - Teranry operator\bin\Debug\net6.0\Challenge - Enhanced If Statement - Teranry operator.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Enhanced If Statement - Teranry operator\bin\Debug\net6.0\ref\Challenge - Enhanced If Statement - Teranry operator.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Enhanced If Statement - Teranry operator\bin\Debug\net6.0\Challenge - Enhanced If Statement - Teranry operator.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Enhanced If Statement - Teranry operator\obj\Debug\net6.0\Challenge - Enhanced If Statement - Teranry operator.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Enhanced If Statement - Teranry operator\obj\Debug\net6.0\Challenge - Enhanced If Statement - Teranry operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Enhanced If Statement - Teranry operator\obj\Debug\net6.0\Challenge - Enhanced If Statement - Teranry operator.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Enhanced If Statement - Teranry operator\obj\Debug\net6.0\Challenge - Enhanced If Statement - Teranry operator.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Enhanced If Statement - Teranry operator\obj\Debug\net6.0\Challenge - Enhanced If Statement - Teranry operator.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Enhanced If Statement - Teranry operator\obj\Debug\net6.0\Challenge - Enhanced If Statement - Teranry operator.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Enhanced If Statement - Teranry operator\obj\Debug\net6.0\ref\Challenge - Enhanced If Statement - Teranry operator.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Enhanced If Statement - Teranry operator\obj\Debug\net6.0\Challenge - Enhanced If Statement - Teranry operator.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Enhanced If Statement - Teranry operator\obj\Debug\net6.0\Challenge - Enhanced If Statement - Teranry operator.genruntimeconfig.cache
