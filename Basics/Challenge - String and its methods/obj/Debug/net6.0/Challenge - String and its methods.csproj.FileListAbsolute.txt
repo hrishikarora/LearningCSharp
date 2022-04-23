@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - String and its methods\bin\Debug\net6.0\Challenge - String and its methods.exe
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - String and its methods\bin\Debug\net6.0\Challenge - String and its methods.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - String and its methods\bin\Debug\net6.0\Challenge - String and its methods.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - String and its methods\bin\Debug\net6.0\Challenge - String and its methods.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - String and its methods\bin\Debug\net6.0\ref\Challenge - String and its methods.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - String and its methods\bin\Debug\net6.0\Challenge - String and its methods.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - String and its methods\obj\Debug\net6.0\Challenge - String and its methods.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - String and its methods\obj\Debug\net6.0\Challenge - String and its methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - String and its methods\obj\Debug\net6.0\Challenge - String and its methods.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - String and its methods\obj\Debug\net6.0\Challenge - String and its methods.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - String and its methods\obj\Debug\net6.0\Challenge - String and its methods.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - String and its methods\obj\Debug\net6.0\Challenge - String and its methods.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - String and its methods\obj\Debug\net6.0\ref\Challenge - String and its methods.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - String and its methods\obj\Debug\net6.0\Challenge - String and its methods.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - String and its methods\obj\Debug\net6.0\Challenge - String and its methods.genruntimeconfig.cache
