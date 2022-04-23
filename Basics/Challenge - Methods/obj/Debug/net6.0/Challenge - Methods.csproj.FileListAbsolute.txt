@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Methods\bin\Debug\net6.0\Challenge - Methods.exe
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Methods\bin\Debug\net6.0\Challenge - Methods.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Methods\bin\Debug\net6.0\Challenge - Methods.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Methods\bin\Debug\net6.0\Challenge - Methods.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Methods\bin\Debug\net6.0\ref\Challenge - Methods.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Methods\bin\Debug\net6.0\Challenge - Methods.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Methods\obj\Debug\net6.0\Challenge - Methods.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Methods\obj\Debug\net6.0\Challenge - Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Methods\obj\Debug\net6.0\Challenge - Methods.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Methods\obj\Debug\net6.0\Challenge - Methods.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Methods\obj\Debug\net6.0\Challenge - Methods.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Methods\obj\Debug\net6.0\Challenge - Methods.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Methods\obj\Debug\net6.0\ref\Challenge - Methods.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Methods\obj\Debug\net6.0\Challenge - Methods.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Methods\obj\Debug\net6.0\Challenge - Methods.genruntimeconfig.cache
