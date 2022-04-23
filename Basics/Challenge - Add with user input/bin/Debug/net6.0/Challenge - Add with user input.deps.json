@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Challenge - Add with user input/1.0.0": {
+        "runtime": {
+          "Challenge - Add with user input.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Challenge - Add with user input/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

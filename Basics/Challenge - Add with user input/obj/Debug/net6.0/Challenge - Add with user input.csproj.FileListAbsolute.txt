@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Add with user input\bin\Debug\net6.0\Challenge - Add with user input.exe
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Add with user input\bin\Debug\net6.0\Challenge - Add with user input.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Add with user input\bin\Debug\net6.0\Challenge - Add with user input.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Add with user input\bin\Debug\net6.0\Challenge - Add with user input.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Add with user input\bin\Debug\net6.0\ref\Challenge - Add with user input.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Add with user input\bin\Debug\net6.0\Challenge - Add with user input.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Add with user input\obj\Debug\net6.0\Challenge - Add with user input.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Add with user input\obj\Debug\net6.0\Challenge - Add with user input.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Add with user input\obj\Debug\net6.0\Challenge - Add with user input.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Add with user input\obj\Debug\net6.0\Challenge - Add with user input.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Add with user input\obj\Debug\net6.0\Challenge - Add with user input.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Add with user input\obj\Debug\net6.0\Challenge - Add with user input.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Add with user input\obj\Debug\net6.0\ref\Challenge - Add with user input.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Add with user input\obj\Debug\net6.0\Challenge - Add with user input.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Add with user input\obj\Debug\net6.0\Challenge - Add with user input.genruntimeconfig.cache
