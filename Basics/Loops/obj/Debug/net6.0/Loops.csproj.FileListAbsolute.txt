@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Loops\bin\Debug\net6.0\Loops.exe
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Loops\bin\Debug\net6.0\Loops.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Loops\bin\Debug\net6.0\Loops.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Loops\bin\Debug\net6.0\Loops.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Loops\bin\Debug\net6.0\ref\Loops.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Loops\bin\Debug\net6.0\Loops.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Loops\obj\Debug\net6.0\Loops.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Loops\obj\Debug\net6.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Loops\obj\Debug\net6.0\Loops.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Loops\obj\Debug\net6.0\Loops.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Loops\obj\Debug\net6.0\Loops.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Loops\obj\Debug\net6.0\Loops.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Loops\obj\Debug\net6.0\ref\Loops.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Loops\obj\Debug\net6.0\Loops.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Loops\obj\Debug\net6.0\Loops.genruntimeconfig.cache
