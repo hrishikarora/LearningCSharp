@@ -11,7 +11,12 @@ namespace Constructors
         /// </summary>
         public void IntroduceYourself()
         {
-            Console.WriteLine($"Hi, I am {firstName} {lastName}\nI have {eyeColor} eyes and I am {age} years old");
+            if(firstName==null&&lastName==null&&age==0&&eyeColor==null)
+                Console.WriteLine($"Hi, I don't have any name yet");
+            else if(age==0&&eyeColor==null)
+                Console.WriteLine($"Hi I am {firstName} {lastName}");
+            else
+                Console.WriteLine($"Hi. I am {firstName} {lastName}. I am {age} years old with {eyeColor} eyes!");
         }
         /// <summary>
         /// Constructor with name as argument
@@ -24,6 +29,15 @@ namespace Constructors
             this.lastName = lastName;
             this.eyeColor = eyeColor;
             this.age = age;
+        }
+        public Human()
+        {
+            Console.WriteLine("This is default constructor");
+        }
+        public Human(string firstName, string lastName)
+        {
+            this.firstName = firstName;
+            this.lastName = lastName;
         }
     }
 }

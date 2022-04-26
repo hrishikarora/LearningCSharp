@@ -1,7 +1,10 @@
 ﻿using Constructors;
-
+Console.WriteLine("Hrishik");
 Human hrishik = new Human("Hrishik", "Arora","Black",20);
 hrishik.IntroduceYourself();
-
-Human Random = new Human("Random", "Guy", "Cyan", 40);
+Console.WriteLine("random guy");
+Human Random = new Human("Random", "Guy");
 Random.IntroduceYourself();
+Console.WriteLine("nameless");
+Human guy = new Human();
+guy.IntroduceYourself();
