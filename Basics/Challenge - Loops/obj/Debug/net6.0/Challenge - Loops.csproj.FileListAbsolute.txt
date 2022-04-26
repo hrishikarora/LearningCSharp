@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Loops\bin\Debug\net6.0\Challenge - Loops.exe
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Loops\bin\Debug\net6.0\Challenge - Loops.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Loops\bin\Debug\net6.0\Challenge - Loops.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Loops\bin\Debug\net6.0\Challenge - Loops.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Loops\bin\Debug\net6.0\ref\Challenge - Loops.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Loops\bin\Debug\net6.0\Challenge - Loops.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Loops\obj\Debug\net6.0\Challenge - Loops.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Loops\obj\Debug\net6.0\Challenge - Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Loops\obj\Debug\net6.0\Challenge - Loops.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Loops\obj\Debug\net6.0\Challenge - Loops.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Loops\obj\Debug\net6.0\Challenge - Loops.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Loops\obj\Debug\net6.0\Challenge - Loops.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Loops\obj\Debug\net6.0\ref\Challenge - Loops.dll
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Loops\obj\Debug\net6.0\Challenge - Loops.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Basics\Challenge - Loops\obj\Debug\net6.0\Challenge - Loops.genruntimeconfig.cache
