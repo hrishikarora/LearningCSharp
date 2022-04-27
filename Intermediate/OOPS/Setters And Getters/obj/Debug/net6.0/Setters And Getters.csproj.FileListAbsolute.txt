@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Setters And Getters\bin\Debug\net6.0\Setters And Getters.exe
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Setters And Getters\bin\Debug\net6.0\Setters And Getters.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Setters And Getters\bin\Debug\net6.0\Setters And Getters.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Setters And Getters\bin\Debug\net6.0\Setters And Getters.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Setters And Getters\bin\Debug\net6.0\ref\Setters And Getters.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Setters And Getters\bin\Debug\net6.0\Setters And Getters.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Setters And Getters\obj\Debug\net6.0\Setters And Getters.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Setters And Getters\obj\Debug\net6.0\Setters And Getters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Setters And Getters\obj\Debug\net6.0\Setters And Getters.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Setters And Getters\obj\Debug\net6.0\Setters And Getters.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Setters And Getters\obj\Debug\net6.0\Setters And Getters.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Setters And Getters\obj\Debug\net6.0\Setters And Getters.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Setters And Getters\obj\Debug\net6.0\ref\Setters And Getters.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Setters And Getters\obj\Debug\net6.0\Setters And Getters.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Setters And Getters\obj\Debug\net6.0\Setters And Getters.genruntimeconfig.cache
