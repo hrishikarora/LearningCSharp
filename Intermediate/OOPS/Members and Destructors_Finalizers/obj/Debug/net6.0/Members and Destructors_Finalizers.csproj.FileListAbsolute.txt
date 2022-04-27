@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Members and Destructors_Finalizers\bin\Debug\net6.0\Members and Destructors_Finalizers.exe
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Members and Destructors_Finalizers\bin\Debug\net6.0\Members and Destructors_Finalizers.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Members and Destructors_Finalizers\bin\Debug\net6.0\Members and Destructors_Finalizers.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Members and Destructors_Finalizers\bin\Debug\net6.0\Members and Destructors_Finalizers.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Members and Destructors_Finalizers\bin\Debug\net6.0\ref\Members and Destructors_Finalizers.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Members and Destructors_Finalizers\bin\Debug\net6.0\Members and Destructors_Finalizers.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Members and Destructors_Finalizers\obj\Debug\net6.0\Members and Destructors_Finalizers.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Members and Destructors_Finalizers\obj\Debug\net6.0\Members and Destructors_Finalizers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Members and Destructors_Finalizers\obj\Debug\net6.0\Members and Destructors_Finalizers.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Members and Destructors_Finalizers\obj\Debug\net6.0\Members and Destructors_Finalizers.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Members and Destructors_Finalizers\obj\Debug\net6.0\Members and Destructors_Finalizers.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Members and Destructors_Finalizers\obj\Debug\net6.0\Members and Destructors_Finalizers.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Members and Destructors_Finalizers\obj\Debug\net6.0\ref\Members and Destructors_Finalizers.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Members and Destructors_Finalizers\obj\Debug\net6.0\Members and Destructors_Finalizers.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\OOPS\Members and Destructors_Finalizers\obj\Debug\net6.0\Members and Destructors_Finalizers.genruntimeconfig.cache
