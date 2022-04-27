@@ -61,7 +61,7 @@ namespace Members_and_Destructors_Finalizers
             //clean up statements
 
             Console.WriteLine("Deconstruction of Members objects");
-            Debug.WriteLine("Deconstruction of Members objects");
+           
         }
 
     }
