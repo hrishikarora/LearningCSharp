@@ -15,3 +15,22 @@ int[] arrayThird = new int[] { 1, 2, 3, 4, 5 };
 
 Console.WriteLine($"ArrayThird first element {arrayThird[0]}");
 
+
+///
+/// For Each loop
+///
+
+
+foreach( var num in arrayFirst)
+{
+    Console.WriteLine($"{num}");
+    
+}
+
+string[] myFriends = new string[] { "Hrishik", "me", "Myself" };
+
+foreach(var name in myFriends)
+{
+    Console.WriteLine($"Hello my friend {name}");
+    
+}
