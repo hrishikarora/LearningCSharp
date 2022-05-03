@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Arrays\bin\Debug\net6.0\Challenge - Arrays.exe
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Arrays\bin\Debug\net6.0\Challenge - Arrays.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Arrays\bin\Debug\net6.0\Challenge - Arrays.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Arrays\bin\Debug\net6.0\Challenge - Arrays.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Arrays\bin\Debug\net6.0\ref\Challenge - Arrays.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Arrays\bin\Debug\net6.0\Challenge - Arrays.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Arrays\obj\Debug\net6.0\Challenge - Arrays.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Arrays\obj\Debug\net6.0\Challenge - Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Arrays\obj\Debug\net6.0\Challenge - Arrays.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Arrays\obj\Debug\net6.0\Challenge - Arrays.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Arrays\obj\Debug\net6.0\Challenge - Arrays.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Arrays\obj\Debug\net6.0\Challenge - Arrays.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Arrays\obj\Debug\net6.0\ref\Challenge - Arrays.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Arrays\obj\Debug\net6.0\Challenge - Arrays.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Arrays\obj\Debug\net6.0\Challenge - Arrays.genruntimeconfig.cache
