@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\2D Arrays\bin\Debug\net6.0\2D Arrays.exe
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\2D Arrays\bin\Debug\net6.0\2D Arrays.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\2D Arrays\bin\Debug\net6.0\2D Arrays.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\2D Arrays\bin\Debug\net6.0\2D Arrays.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\2D Arrays\bin\Debug\net6.0\ref\2D Arrays.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\2D Arrays\bin\Debug\net6.0\2D Arrays.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\2D Arrays\obj\Debug\net6.0\2D Arrays.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\2D Arrays\obj\Debug\net6.0\2D Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\2D Arrays\obj\Debug\net6.0\2D Arrays.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\2D Arrays\obj\Debug\net6.0\2D Arrays.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\2D Arrays\obj\Debug\net6.0\2D Arrays.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\2D Arrays\obj\Debug\net6.0\2D Arrays.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\2D Arrays\obj\Debug\net6.0\ref\2D Arrays.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\2D Arrays\obj\Debug\net6.0\2D Arrays.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\2D Arrays\obj\Debug\net6.0\2D Arrays.genruntimeconfig.cache
