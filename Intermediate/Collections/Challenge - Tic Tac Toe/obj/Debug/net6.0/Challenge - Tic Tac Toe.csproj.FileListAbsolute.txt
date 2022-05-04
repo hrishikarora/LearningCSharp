@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Tic Tac Toe\bin\Debug\net6.0\Challenge - Tic Tac Toe.exe
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Tic Tac Toe\bin\Debug\net6.0\Challenge - Tic Tac Toe.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Tic Tac Toe\bin\Debug\net6.0\Challenge - Tic Tac Toe.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Tic Tac Toe\bin\Debug\net6.0\Challenge - Tic Tac Toe.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Tic Tac Toe\bin\Debug\net6.0\ref\Challenge - Tic Tac Toe.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Tic Tac Toe\bin\Debug\net6.0\Challenge - Tic Tac Toe.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Tic Tac Toe\obj\Debug\net6.0\Challenge - Tic Tac Toe.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Tic Tac Toe\obj\Debug\net6.0\Challenge - Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Tic Tac Toe\obj\Debug\net6.0\Challenge - Tic Tac Toe.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Tic Tac Toe\obj\Debug\net6.0\Challenge - Tic Tac Toe.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Tic Tac Toe\obj\Debug\net6.0\Challenge - Tic Tac Toe.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Tic Tac Toe\obj\Debug\net6.0\Challenge - Tic Tac Toe.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Tic Tac Toe\obj\Debug\net6.0\ref\Challenge - Tic Tac Toe.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Tic Tac Toe\obj\Debug\net6.0\Challenge - Tic Tac Toe.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Tic Tac Toe\obj\Debug\net6.0\Challenge - Tic Tac Toe.genruntimeconfig.cache
