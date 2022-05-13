@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - ArrayAsParameter\bin\Debug\net6.0\Challenge - ArrayAsParameter.exe
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - ArrayAsParameter\bin\Debug\net6.0\Challenge - ArrayAsParameter.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - ArrayAsParameter\bin\Debug\net6.0\Challenge - ArrayAsParameter.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - ArrayAsParameter\bin\Debug\net6.0\Challenge - ArrayAsParameter.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - ArrayAsParameter\bin\Debug\net6.0\ref\Challenge - ArrayAsParameter.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - ArrayAsParameter\bin\Debug\net6.0\Challenge - ArrayAsParameter.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - ArrayAsParameter\obj\Debug\net6.0\Challenge - ArrayAsParameter.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - ArrayAsParameter\obj\Debug\net6.0\Challenge - ArrayAsParameter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - ArrayAsParameter\obj\Debug\net6.0\Challenge - ArrayAsParameter.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - ArrayAsParameter\obj\Debug\net6.0\Challenge - ArrayAsParameter.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - ArrayAsParameter\obj\Debug\net6.0\Challenge - ArrayAsParameter.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - ArrayAsParameter\obj\Debug\net6.0\Challenge - ArrayAsParameter.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - ArrayAsParameter\obj\Debug\net6.0\ref\Challenge - ArrayAsParameter.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - ArrayAsParameter\obj\Debug\net6.0\Challenge - ArrayAsParameter.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - ArrayAsParameter\obj\Debug\net6.0\Challenge - ArrayAsParameter.genruntimeconfig.cache

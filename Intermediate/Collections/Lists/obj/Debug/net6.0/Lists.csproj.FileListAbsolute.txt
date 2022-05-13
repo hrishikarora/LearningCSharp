@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Lists\bin\Debug\net6.0\Lists.exe
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Lists\bin\Debug\net6.0\Lists.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Lists\bin\Debug\net6.0\Lists.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Lists\bin\Debug\net6.0\Lists.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Lists\bin\Debug\net6.0\ref\Lists.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Lists\bin\Debug\net6.0\Lists.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Lists\obj\Debug\net6.0\Lists.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Lists\obj\Debug\net6.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Lists\obj\Debug\net6.0\Lists.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Lists\obj\Debug\net6.0\Lists.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Lists\obj\Debug\net6.0\Lists.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Lists\obj\Debug\net6.0\Lists.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Lists\obj\Debug\net6.0\ref\Lists.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Lists\obj\Debug\net6.0\Lists.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Lists\obj\Debug\net6.0\Lists.genruntimeconfig.cache

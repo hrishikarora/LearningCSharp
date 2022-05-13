@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Jagged Arrays\bin\Debug\net6.0\Jagged Arrays.exe
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Jagged Arrays\bin\Debug\net6.0\Jagged Arrays.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Jagged Arrays\bin\Debug\net6.0\Jagged Arrays.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Jagged Arrays\bin\Debug\net6.0\Jagged Arrays.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Jagged Arrays\bin\Debug\net6.0\ref\Jagged Arrays.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Jagged Arrays\bin\Debug\net6.0\Jagged Arrays.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Jagged Arrays\obj\Debug\net6.0\Jagged Arrays.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Jagged Arrays\obj\Debug\net6.0\Jagged Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Jagged Arrays\obj\Debug\net6.0\Jagged Arrays.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Jagged Arrays\obj\Debug\net6.0\Jagged Arrays.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Jagged Arrays\obj\Debug\net6.0\Jagged Arrays.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Jagged Arrays\obj\Debug\net6.0\Jagged Arrays.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Jagged Arrays\obj\Debug\net6.0\ref\Jagged Arrays.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Jagged Arrays\obj\Debug\net6.0\Jagged Arrays.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Jagged Arrays\obj\Debug\net6.0\Jagged Arrays.genruntimeconfig.cache
