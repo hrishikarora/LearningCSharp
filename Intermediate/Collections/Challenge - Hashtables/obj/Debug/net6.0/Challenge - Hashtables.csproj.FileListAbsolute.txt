@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Hashtables\bin\Debug\net6.0\Challenge - Hashtables.exe
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Hashtables\bin\Debug\net6.0\Challenge - Hashtables.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Hashtables\bin\Debug\net6.0\Challenge - Hashtables.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Hashtables\bin\Debug\net6.0\Challenge - Hashtables.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Hashtables\bin\Debug\net6.0\ref\Challenge - Hashtables.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Hashtables\bin\Debug\net6.0\Challenge - Hashtables.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Hashtables\obj\Debug\net6.0\Challenge - Hashtables.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Hashtables\obj\Debug\net6.0\Challenge - Hashtables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Hashtables\obj\Debug\net6.0\Challenge - Hashtables.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Hashtables\obj\Debug\net6.0\Challenge - Hashtables.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Hashtables\obj\Debug\net6.0\Challenge - Hashtables.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Hashtables\obj\Debug\net6.0\Challenge - Hashtables.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Hashtables\obj\Debug\net6.0\ref\Challenge - Hashtables.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Hashtables\obj\Debug\net6.0\Challenge - Hashtables.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Challenge - Hashtables\obj\Debug\net6.0\Challenge - Hashtables.genruntimeconfig.cache
