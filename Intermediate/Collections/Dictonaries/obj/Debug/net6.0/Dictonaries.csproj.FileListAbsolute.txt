@@ -1,0 +1,15 @@
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Dictonaries\bin\Debug\net6.0\Dictonaries.exe
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Dictonaries\bin\Debug\net6.0\Dictonaries.deps.json
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Dictonaries\bin\Debug\net6.0\Dictonaries.runtimeconfig.json
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Dictonaries\bin\Debug\net6.0\Dictonaries.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Dictonaries\bin\Debug\net6.0\ref\Dictonaries.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Dictonaries\bin\Debug\net6.0\Dictonaries.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Dictonaries\obj\Debug\net6.0\Dictonaries.csproj.AssemblyReference.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Dictonaries\obj\Debug\net6.0\Dictonaries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Dictonaries\obj\Debug\net6.0\Dictonaries.AssemblyInfoInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Dictonaries\obj\Debug\net6.0\Dictonaries.AssemblyInfo.cs
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Dictonaries\obj\Debug\net6.0\Dictonaries.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Dictonaries\obj\Debug\net6.0\Dictonaries.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Dictonaries\obj\Debug\net6.0\ref\Dictonaries.dll
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Dictonaries\obj\Debug\net6.0\Dictonaries.pdb
+D:\Workspace\c#\Learning\LearningCSharp\Intermediate\Collections\Dictonaries\obj\Debug\net6.0\Dictonaries.genruntimeconfig.cache
