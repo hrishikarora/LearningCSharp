@@ -26,3 +26,4 @@ for (var i = 0; i < jaggedArray.Length; i++)
         
     }
 }
+Console.WriteLine($"aaa{jaggedArray[0][2]}");
